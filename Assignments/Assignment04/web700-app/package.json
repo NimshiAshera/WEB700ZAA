@@ -1,0 +1,26 @@
+{
+    "name": "web700-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Nimshi Fernando",
+    "license": "ISC",
+    "description": "Assignment 03",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NimshiAshera/WEB700ZAA.git"
+    },
+    "keywords": [
+        "web700"
+    ],
+    "bugs": {
+        "url": "https://github.com/NimshiAshera/WEB700ZAA/issues"
+    },
+    "homepage": "https://github.com/NimshiAshera/WEB700ZAA#readme",
+    "dependencies": {
+        "express": "^4.21.1"
+    }
+}
