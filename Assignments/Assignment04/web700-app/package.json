@@ -8,18 +8,18 @@
     },
     "author": "Nimshi Fernando",
     "license": "ISC",
-    "description": "Assignment 03",
+    "description": "Assignment 04",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NimshiAshera/WEB700ZAA.git"
+        "url": "git+https://github.com/NimshiAshera/web700-app.git" 
     },
     "keywords": [
         "web700"
     ],
     "bugs": {
-        "url": "https://github.com/NimshiAshera/WEB700ZAA/issues"
+        "url": "https://github.com/NimshiAshera/web700-app/issues"
     },
-    "homepage": "https://github.com/NimshiAshera/WEB700ZAA#readme",
+    "homepage": "https://github.com/NimshiAshera/web700-app#readme",
     "dependencies": {
         "express": "^4.21.1"
     }
