@@ -1,0 +1,32 @@
+<div class="row">
+    <main class="col-md-12">
+        <br>
+
+
+        <h2>Add New Student</h2>
+<form method="POST" action="/students/add">
+    <div class="form-group">
+        <label for="firstName">First Name</label>
+        <input type="text" id="firstName" name="firstName" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input type="text" id="lastName" name="lastName" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="status">Status</label>
+        <select id="status" name="status" class="form-control" required>
+            <option value="Full-Time">Full-Time</option>
+            <option value="Part-Time">Part-Time</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success">Add Student</button>
+</form>
+
+
+    </main>
+</div>
